@@ -7,3 +7,5 @@ Author: Arul Prasath
 2.Chat screen Code
 
 3.Last seen Code
+
+4.Hiding the last seen
